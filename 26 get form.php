@@ -10,6 +10,7 @@
     Email: <input type="text" name="email"><br>
     <input type="submit" value="Kirim">
 </form>
+<p><strong>By:Dara Maulida
 
 </body>
 </html>
